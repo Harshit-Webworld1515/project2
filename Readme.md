@@ -1,2 +1,2 @@
 # new Project
-This project is created by local sysytem
+This project is created by local system
